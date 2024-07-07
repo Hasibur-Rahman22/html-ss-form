@@ -1,0 +1,38 @@
+
+*{
+    margin-top: 0;
+    padding: 0;
+}
+
+
+.form-section{
+    width: 100%;
+    background-color: antiquewhite;
+    height: 100vh;
+
+}
+
+
+.container{
+    width: 1140px;
+    margin: 0auto;
+}
+
+
+
+
+
+
+.hp{
+    background-color: blueviolet;
+    padding: 27px;
+    margin-top: 20px;
+
+}
+
+.left{
+    background-color: aqua;
+    padding: 100px;
+    margin: 20px;
+}
+
